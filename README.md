@@ -1,4 +1,5 @@
 # NLP-Project-2025
+# GenRetrievers
 # Sentence Embeddings & Semantic Search with FAISS
 
 This project demonstrates how to use sentence embeddings to compute similarity between sentences and perform fast semantic search using **FAISS**.
